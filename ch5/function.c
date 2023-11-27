@@ -61,20 +61,20 @@ int main(void)
   // printf("사과 %d개 중에 %d개를 먹으면, %d개가 남아요", 10, 4, apple(10, 4));
 
   // 계산기 함수
-  int num = 2;
-  num = add(num, 3);
-  p(num);
+  // int num = 2;
+  // num = add(num, 3);
+  // p(num);
 
-  num = sub(num, 1);
-  p(num);
+  // num = sub(num, 1);
+  // p(num);
 
-  num = mul(num, 3);
-  p(num);
+  // num = mul(num, 3);
+  // p(num);
 
-  num = div(num, 6);
-  p(num);
+  // num = div(num, 6);
+  // p(num);
 
-  return 0;
+  // return 0;
 }
 
 // 정의
